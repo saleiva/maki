@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg4619" sodipodi:docname="rail-18.svg" inkscape:version="0.48.2 r9819" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 18 18"
+	 enable-background="new 0 0 18 18" xml:space="preserve">
+<sodipodi:namedview  inkscape:snap-nodes="false" inkscape:object-paths="true" inkscape:snap-bbox="true" inkscape:window-maximized="0" inkscape:window-y="40" inkscape:window-x="76" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:window-width="1008" inkscape:guide-bbox="true" inkscape:window-height="662" inkscape:pageshadow="2" showguides="true" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:cy="1.948034" showgrid="true" inkscape:zoom="16" borderopacity="1.0" inkscape:cx="5.9619453">
+	<inkscape:grid  type="xygrid" snapvisiblegridlinesonly="true" empspacing="5" enabled="true" visible="true" id="grid4627">
+		</inkscape:grid>
+	<sodipodi:guide  id="guide4659" position="7,18" orientation="0,1"></sodipodi:guide>
+	<sodipodi:guide  id="guide4661" position="18,9" orientation="1,0"></sodipodi:guide>
+	<sodipodi:guide  id="guide4663" position="16,17" orientation="0,1"></sodipodi:guide>
+	<sodipodi:guide  id="guide4665" position="17,14" orientation="1,0"></sodipodi:guide>
+	<sodipodi:guide  id="guide4667" position="0,16" orientation="1,0"></sodipodi:guide>
+	<sodipodi:guide  id="guide4669" position="8,0" orientation="0,1"></sodipodi:guide>
+	<sodipodi:guide  id="guide4671" position="2,10" orientation="1,0"></sodipodi:guide>
+	<sodipodi:guide  id="guide4673" position="12,2" orientation="0,1"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-1034.3622)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+</g>
+<g>
+	<path opacity="0.3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" enable-background="new    " d="
+		M13,5.8h-2.1V3.6L14.4,2l-2.7,0L3.3,5.6l0,1.5l6.9-3.1v1.9H8.1L6,7.4v6.2C6,14,7.1,15,7.4,15h6.3c0.3,0,1.4-1,1.4-1.4V7.4L13,5.8z"
+		/>
+	
+		<path id="rect8366-0" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccccccccccssssssssss" fill="#444444" d="
+		M8.1,5.8L6,7.4v6.2C6,14,7.1,15,7.4,15h1h2.4h1.7h1c0.3,0,1.4-1,1.4-1.4V7.4L13,5.8H8.1z M8.8,7.4h3.5l1,0.7v2.1H7.9V8L8.8,7.4z"/>
+	<rect x="10.2" y="3.1" fill="#444444" width="0.7" height="11.2"/>
+	<polygon fill="#444444" points="3.3,7 14.4,2 11.8,2 3.3,5.6 	"/>
+</g>
+</svg>
